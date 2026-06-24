@@ -2,7 +2,6 @@
 
 AWS Cloud Architect student at ITS ICT Piemonte. Former historian with a double Master's degree from the Universities of Turin and Lyon 2.
 
-These repositories are the record of a transition — from archives to infrastructure.
 
 ---
 
